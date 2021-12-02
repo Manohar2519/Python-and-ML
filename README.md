@@ -1,1 +1,1 @@
-# Innomatics_Internship
+# Python and ML
